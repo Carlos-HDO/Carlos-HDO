@@ -2,7 +2,7 @@
 
 - I'm **@Carlos-HDO** (Carlos Dias)
 - 🛡️ Cyber Security Specialist 
-- 🎯 Interested in **Offensive Security**, **Penetration Testing**, **Red Teaming**, and **Exploit Development**
+- 🎯 Interested in **Offensive Security**, **Red Teaming**
 - 🏆 Certifications: **OSWE** | **OSEP** | **OSCP**
 - 📖 Currently studying: **OffSec EXP-301** (Windows User-Mode Exploit Development)
 - 🤝 Looking to collaborate on security tooling and open-source projects
